@@ -108,7 +108,7 @@ p{
 
 @media screen and (max-width: 500px) {
   #container, .container1 {
-    margin: 20px 0 10px 20px;
-
+    margin: 20px 45px 10px 45px;
+    width: 350px;
   }
 }

@@ -2,6 +2,8 @@ body {
   background: hsl(27, 66%, 92%);
   font-family: 'Noto Sans', sans-serif;
   text-align:center;
+  margin: 0;
+  padding: 0;
 }
 
 p{
@@ -114,7 +116,7 @@ p{
 
 
 @media screen and (max-width: 767px) {
-  #container, .container1 {
+  #container, .container1, .crdiv {
     margin: 20px 50px 10px 0;
     width: 300px;
   }
